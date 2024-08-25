@@ -1,0 +1,8 @@
+/c/Users/Samd/Week-2-UNIXDataFiles/Week-2-UNIXDataFiles/My1stDir
+total 5467
+drwxr-xr-x 1 Samd 197609       0 mai   10 17:41 ./
+drwxr-xr-x 1 Samd 197609       0 mai   10 17:23 ../
+-rw-r--r-- 1 Samd 197609      64 mai   10 17:22 fruits.txt
+-rw-r--r-- 1 Samd 197609      64 mai   10 17:36 fruits-sorted.txt
+-rw-r--r-- 1 Samd 197609      65 mai   10 17:42 out.txt
+-rw-r--r-- 1 Samd 197609 5583442 avr.  11  2017 shakespeare.txt
